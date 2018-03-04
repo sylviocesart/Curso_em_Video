@@ -6,3 +6,5 @@ Atualizado.
 Foi atulizado para mais uma linha.
 
 Linha adicionada pelo PyCharm.
+
+Linha sera removida.
